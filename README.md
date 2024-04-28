@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java,OOP,GUI
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me through my whatsapp or Insta,daring__darain
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
